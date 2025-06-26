@@ -148,7 +148,7 @@ function Editor() {
 
   return (
     <div className="p-4 md:p-6 text-white bg-gray-900 min-h-screen w-full">
-      <h2 className="text-3xl font-bold mb-6">🎬 Smart Video Editor</h2>
+      <h2 className="text-3xl font-bold mb-6">Video Editor</h2>
 
       <input
         type="file"
